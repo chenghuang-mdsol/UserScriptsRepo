@@ -11,6 +11,7 @@
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_registerMenuCommand
+// @icon        https://github.githubassets.com/pinned-octocat.svg
 // @require     https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment-with-locales.min.js
 // @require     https://greasyfork.org/scripts/28721-mutations/code/mutations.js?version=1108163
 // @require     https://greasyfork.org/scripts/398877-utils-js/code/utilsjs.js?version=1079637
