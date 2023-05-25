@@ -15,8 +15,8 @@
 // @require     https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment-with-locales.min.js
 // @require     https://greasyfork.org/scripts/28721-mutations/code/mutations.js?version=1108163
 // @require     https://greasyfork.org/scripts/398877-utils-js/code/utilsjs.js?version=1079637
-// @updateURL   https://raw.githubusercontent.com/chenghuang-mdsol/UserScriptsRepo/main/wider-gha-popup.js
-// @downloadURL https://raw.githubusercontent.com/chenghuang-mdsol/UserScriptsRepo/main/wider-gha-popup.js
+// @updateURL   https://raw.githubusercontent.com/chenghuang-mdsol/UserScriptsRepo/main/wider-gha-popup.user.js
+// @downloadURL https://raw.githubusercontent.com/chenghuang-mdsol/UserScriptsRepo/main/wider-gha-popup.user.js
 // @supportURL  https://github.com/Mottie/chenghuang-mdsol/UserScriptsRepo/issues
 // ==/UserScript==
 
