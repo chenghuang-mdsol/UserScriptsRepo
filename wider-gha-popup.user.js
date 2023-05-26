@@ -6,7 +6,7 @@
 // @namespace   https://github.com/chenghuang-mdsol
 // @run-at      document-end
 // @author      Cheng Huang
-// @match       https://github.com/*/actions/workflows/*
+// @match       https://github.com/*
 // @grant       GM_addStyle
 // @grant       GM_getValue
 // @grant       GM_setValue
